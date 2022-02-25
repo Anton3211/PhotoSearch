@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "burgundy-exploring-nature.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
